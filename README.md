@@ -1,6 +1,9 @@
 <hr>
-  <h5>Create portable static executables from dynamic executables that will run on every distribution of linux without the need of recompiling, <a target="_blank" href="http://www.elfex-linker.com">Click here</a> for more information</h5>
-  <hr>
+  <h5>Create portable static executables from dynamic executables that will run on every distribution of linux without the need of recompiling, <a target="_blank" href="http://www.elfex-linker.com">Click here</a> for more information</h5>Fern Wifi Cracker For Wireless Security♻️
+
+🔸Fern Wifi Cracker is a Wireless security evaluating and assault software program composed utilizing the Python Programming Language and the Python Qt GUI library, the program can crack and recover WEP/WPA/WPS keys and furthermore run other network based attacks on wireless or ethernet based networks.
+  《》
+  < hr >
   
 <b>DISCLAIMER</b>: Fern-Wifi-Cracker is designed to be used in testing and discovering flaws in one's own network with the aim of fixing the flaws detected, <b>DO NOT</b> use the program on networks for which you don't have permission, I am not responsible for whatever damage you cause by using this software.
 <hr/> 
